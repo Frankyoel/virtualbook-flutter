@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371146480117",
+    "project_id": "mivirtualbook",
+    "storage_bucket": "mivirtualbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371146480117:android:7a345c46a3b3b7d65428bc",
+        "android_client_info": {
+          "package_name": "example1.trabajo_final_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371146480117-u9ho03pka04njfqs69m7g4ocsk93294n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalvOs6SN4LxkfpTU5p9L03yGEw3ehDg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371146480117-u9ho03pka04njfqs69m7g4ocsk93294n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
